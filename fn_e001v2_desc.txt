@@ -1,0 +1,40 @@
+Every time you ask an AI a question, someone pays for the answer: in electricity, grid capacity, water, chips and money. We follow the cost of a single AI answer from a power market in the eastern United States, to Ireland's overloaded grid, to the data-centre boom in Johor, Malaysia, and the chip factories of Taiwan. A researched documentary: every figure on screen is sourced below.
+
+What do you think: should data centres pay more for the grid they need? Tell us in the comments.
+
+CHAPTERS
+0:00 A single AI answer
+0:57 The bill arrives
+2:28 The country that ran out of room
+3:36 Water in the tropics
+5:02 The chip bottleneck
+5:59 The $700 billion bet
+6:42 The quiet cost
+7:18 So who pays?
+
+SOURCES
+- IEA (2025). Energy and AI. https://www.iea.org/reports/energy-and-ai
+- IEA (2026). Key Questions on Energy and AI. https://www.iea.org/reports/key-questions-on-energy-and-ai
+- Shehabi et al., Lawrence Berkeley National Laboratory (2024). 2024 United States Data Center Energy Usage Report. https://eta-publications.lbl.gov/publications/2024-lbnl-data-center-energy-usage-report
+- Smith et al., Lawrence Berkeley National Laboratory (2026). United States Data Center Energy Usage Report: 2025 Update. https://eta-publications.lbl.gov/publications/united-states-data-center-energy-2025
+- Central Statistics Office Ireland (2026). Data Centres Metered Electricity Consumption 2025. https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2025/keyfindings/
+- Lawrence Berkeley National Laboratory. Queued Up: Characteristics of Power Plants Seeking Transmission Interconnection (2024 edition). https://emp.lbl.gov/queues
+- Colliers (2026). EMEA Data Centre Markets Report H1 2026, via DatacenterDynamics. https://www.datacenterdynamics.com/en/news/power-availability-the-defining-constraint-in-emea-data-center-development-report/
+- Capacity Media (2026). Energinet pause on new large grid connections in Denmark. https://capacityglobal.com/?p=10011166
+- Reuters (2026). Malaysia's resource anxiety tests Asia's fastest data centre build-out (via The Star). https://www.thestar.com.my/business/business-news/2026/07/24/malaysia039s-resource-anxiety-tests-asia039s-fastest-data-centre-build-out
+- PJM Interconnection, Base Residual Auction results 2024/25 to 2027/28; NRDC (2025). https://www.nrdc.org/press-releases/first-time-history-pjm-auction-fails-procure-necessary-power-supply
+- Maryland Office of People's Counsel (2025). PJM capacity auction results. https://content.govdelivery.com/accounts/MDOPC/bulletins/4006939
+- Watten, Bistline & Blanford (2026). Have Data Centers Raised Your Electric Bill? Causal Evidence from the United States. arXiv:2606.19777. https://ideas.repec.org/p/arx/papers/2606.19777.html
+- de Vries-Gao (2025). The carbon and water footprints of data centers and what this could mean for artificial intelligence. Patterns.
+- AsiaNews (2025). Johor halts expansion of water-based data centre cooling. https://www.asianews.it/news-en/Johor-State-halts-development-of-water-based-data-centres-until-2027-64302.html
+- Irish Times (2026). Data centres account for almost a quarter of Irish electricity usage in 2025. https://www.irishtimes.com/business/2026/07/07/data-centres-account-for-almost-one-quarter-of-irish-electricity-usage-in-2025/
+- TSMC CoWoS capacity and Nvidia share: industry estimates (TrendForce, Epoch AI), 2025-2026.
+- Amazon, Alphabet, Microsoft, Meta: Q2 2026 earnings calls (capex guidance), compiled by datacentres.com. https://www.datacentres.com/news/ai-demand-surge-hyperscaler-capex-2026
+- Brynjolfsson, Chandar & Chen (2026). Canaries in the Coal Mine? Stanford Digital Economy Lab. https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/
+
+NOTES
+Forecasts, scenarios and model estimates are labelled on screen. Cinematic scenes are AI-generated illustrations (Google Flow) and are marked as such; they do not show the specific places named. Charts, maps and graphics are original (map data: Natural Earth, public domain). Narration: AI voice (Kokoro, Apache-2.0). Music: original, made with Suno (Pro plan). For information only, not financial advice.
+
+If you found this useful, like and subscribe so you don't miss the next story.
+
+#AI #DataCenters #Energy
